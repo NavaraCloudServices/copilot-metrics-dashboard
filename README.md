@@ -5,7 +5,7 @@
 
 # Introduction
 
-The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the [GitHub Copilot Metrics API](https://docs.github.com/en/rest/copilot/copilot-usage?apiVersion=2022-11-28) and [GitHub Copilot User Management API](https://docs.github.com/en/rest/copilot/copilot-user-management?apiVersion=2022-11-28).
+The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the [GitHub Copilot Metrics API](https://docs.github.com/en/rest/copilot/copilot-metrics?apiVersion=2022-11-28) and [GitHub Copilot User Management API](https://docs.github.com/en/rest/copilot/copilot-user-management?apiVersion=2022-11-28).
 
 ## Dashboard
 
@@ -54,7 +54,6 @@ You will be prompted to provide the following information:
 - GitHub Organization name
 - GitHub Token
 - GitHub API Scope
-- Use Metrics API (beta - will use the GA Metrics API) )
 - Team Names (if you choose to use the new metrics API)
 ```
 
